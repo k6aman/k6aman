@@ -19,7 +19,7 @@
 
 ## 🧑‍💼 About Me
 
-- 📊 **Data Analyst at Design Creation** (jewellery manufacturing, Surat) since Aug 2024
+- 📊 **Data Analyst at Design Creation Global Pvt. Ltd** (jewellery manufacturing, Surat) since Aug 2024
 - 🏗️ Built the company's **first BI reporting system from scratch**: 4 Power BI dashboards for **Production, Sales, Metal Loss and Finished Goods**
 - 🔌 Connected **Optigo ERP** to Power BI through department-wise **REST APIs**, with **Power Automate** refreshing data about every minute
 - 🪙 Track precious-metal loss (gold, silver, platinum) across 6–7 production departments using **DAX**
@@ -82,7 +82,7 @@
 
 ## 💼 Experience
 
-**Data Analyst**, Design Creation · Surat, IN · *Aug 2024 – Present*
+**Data Analyst**, Design Creation Global Pvt. Ltd · Surat, IN · *Aug 2024 – Present*
 - Replaced manual, department-wise Excel/VBA reporting with 4 Power BI dashboards (Production, Sales, Metal Loss, Finished Goods)
 - Moved the data source from manual ERP exports to live Optigo REST API connections, auto-refreshed with Power Automate
 - Built Excel/VBA data-entry tools so department heads can capture production data the ERP doesn't support
